@@ -1,0 +1,73 @@
+h1 {
+  font-family: 'Ubuntu', sans-serif;
+  background-color: rgb(250, 250, 244);
+  border: solid;
+  padding: 15px;
+  margin: auto;
+  width: 500px;
+  border-radius: 50px;
+  text-align: center;
+}
+body {
+  background-color: #b8f5ed;
+  padding: 1%;
+}
+
+p, ul, a {
+  font-family: 'Roboto Mono', sans-serif;
+  text-align: center;
+}
+h3 {
+  background-color: rgb(250, 250, 244);
+  border: solid;
+  padding: 15px;
+  margin: auto;
+  width: 500px;
+  border-radius: 50px;
+  font-family: 'Ubuntu', sans-serif;
+  text-align: center;
+}
+
+strong {
+  text-decoration: underline;
+}
+
+ul {
+  text-align: center;
+  margin: auto;
+  width: 300px;
+}
+
+.nome-imagem-descricao {
+  /* border: 3px black solid; */
+  margin: 50px;
+  padding: 30px;
+}
+
+#sobremim {
+  height: 400px;
+  position: relative;
+  margin: auto;
+  top: 100px;
+}
+
+#minhafoto {
+  border: 4px solid white;
+  border-radius: 300px;
+  float: left;
+  margin-left: 10%; 
+  background-color: white;
+  padding: 1px;
+}
+
+#links-internos {
+  text-align: center;
+}
+
+#titulo-sobremim {
+  margin-left: 48%;
+}
+
+ul li:nth-child(2n+1) {
+  font-style: italic;
+}

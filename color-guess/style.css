@@ -1,0 +1,79 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: rgb(112, 137, 221);
+}
+
+header {
+  display: flex;
+  width: 50%;
+  background-color: aliceblue;
+  margin: auto;
+  justify-content: center;
+  margin-top: 50px;
+  border: 2px solid gray;
+  border-radius: 10px;
+}
+
+h1 {
+  font-family: sans-serif;
+  text-decoration: underline;
+}
+
+main {
+  display: flex;
+  width: 50%;
+  background-color: aliceblue;
+  margin: auto;
+  justify-content: center;
+  margin-top: 50px;
+  border: 2px solid gray;
+  border-radius: 10px;
+  height: 100%;
+  flex-direction: column;
+  align-items: center;
+}
+
+#balls {
+  display: flex;
+}
+
+#balls div {
+  display: flex;
+  height: 80px;
+  width: 80px;
+  border-radius: 60px;
+  margin: 10px;
+}
+
+.ball {
+  border: 2px solid black;
+}
+
+#result-board {
+  margin: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#result-board p {
+  margin: 3px;
+}
+
+.selected {
+  border: 4px solid blue;
+}
+
+#reset-game {
+  margin: 10px;
+  padding: 10px 20px;
+  color: white;
+  background-color: rgb(61, 38, 190);
+  border-radius: 10px;
+  border: 1px solid rgb(151, 147, 147);
+}

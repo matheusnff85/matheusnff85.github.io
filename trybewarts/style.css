@@ -1,0 +1,202 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+main {
+  display: flex;
+}
+
+h1 {
+  color: white;
+  font-size: 50px;
+}
+
+h2 {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+.email {
+  border-radius: 10px;
+  border: none;
+  margin-right: 10px;
+  width: 200px;
+}
+
+.senha {
+  border-radius: 10px;
+  border: none;
+  margin-right: 10px;
+  width: 150px;
+}
+
+#btn-login {
+  border-radius: 10px;
+  border: none;
+  margin-right: 10px;
+  width: 150px;
+  background-color: rgb(108, 18, 168);
+  color: white;
+  font-size: large;
+}
+
+.header {
+  background-color: rgb(50, 167, 145);
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin: auto;
+}
+
+.trybewarts-header-logo {
+  display: flex;
+  width: 100px;
+  height: 100px;
+}
+
+.trybewarts-login {
+  display: flex;
+  height: 40px;
+}
+
+
+#evaluation-form {
+  display: flex;
+  width: 675px;
+  flex-flow: column wrap;
+  height: 100%;
+  margin: auto;
+}
+
+.inputs {
+  display: flex;
+  flex-wrap: wrap;
+  height: 80px;
+  margin: auto;
+}
+
+#input-name {
+  width: 330px;
+  height: 40px;
+  margin: auto;
+}
+
+#input-lastname {
+  width: 330px;
+  height: 40px;
+  margin-left: 5px;
+}
+
+#input-email {
+  width: 330px;
+  height: 40px;
+  margin-top: 20px;
+  margin-left: 5px;
+}
+
+#house-label {
+  width: 330px;
+  height: 100px;
+  margin: auto;
+}
+
+#trybewarts-forms-logo {
+  height: 500px;
+  margin: auto;
+  display: flex;
+}
+
+.inputs div {
+  align-self: center;
+  margin: auto;
+}
+
+#family-select {
+  display: flex;
+  flex-direction: row;
+  margin-left: 30px;
+}
+
+.family-selector {
+  display: flex;
+  width: 330px;
+  flex-wrap: wrap;
+  margin: 10px;
+}
+
+.family-selector div {
+  width: 300px;
+  margin-top: 10px;
+}
+
+.content-selector {
+  display: flex;
+  width: 330px;
+  flex-wrap: wrap;
+}
+
+.content-selector div {
+  width: 100px;
+}
+
+.satisfaction-level {
+  display: flex;
+  justify-content: space-evenly;
+  margin-left: 10px;
+}
+
+hr {
+  margin-top: 30px;
+  margin-bottom: 30px;
+  margin-left: 30px;
+}
+
+.textarea-section {
+  display: flex;
+  width: 600px;
+  margin-left: 20px;
+}
+
+#textarea {
+  margin-top: 20px;
+  resize: none;
+}
+
+#submit-btn {
+  padding: 10px;
+  border-radius: 5px;
+  border: 1px solid gray;
+  background-color: rgb(108, 18, 168);
+  color: white;
+  font-size: large;
+  width: 630px;
+  margin: 10px 50px;
+}
+
+.text-checkbox {
+  display: flex;
+  margin-top: 10px;
+  margin-left: 20px;
+  align-items: center;
+}
+
+.text-checkbox input {
+  margin-left: 10px;
+}
+
+#footer {
+  display: flex;
+  justify-content: center;
+  margin-top: 40px;
+  padding: 15px;
+  background-color: rgb(61, 57, 57);
+  color: white;
+}
+
+#counter {
+  display: inline;
+  float: right;
+}

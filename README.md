@@ -1,22 +1,22 @@
 # Repositório de projetos feitos.
 
-Este repositório guarda e hospeda no github pages projetos feitos pelo estudante _[Matheus Marinho de Sa Pinto](https://www.linkedin.com/in/matheus-marinhodsp/)_ de desenvolvimento web durante seu curso na [Trybe](https://www.betrybe.com/) :rocket:
+Este repositório guarda e hospeda no github pages projetos feitos pelo estudante [Matheus Marinho de Sa Pinto](https://www.linkedin.com/in/matheus-marinhodsp/) de desenvolvimento web durante seu curso na [Trybe!](https://www.betrybe.com/) 
 
 # Projetos
 
-- _[Projeto - HTML & CSS](https://matheusnff85.github.io/lessions-learned/)_
+- [Projeto - HTML & CSS](https://matheusnff85.github.io/lessions-learned/)
 
 - _[Projeto - Playground Functions](https://github.com/tryber/sd-020-b-project-playground-functions/pull/129)_
 
-- _[Projeto - Arte com Pixels](https://matheusnff85.github.io/pixels-art/)_
+- [Projeto - Arte com Pixels](https://matheusnff85.github.io/pixels-art/)
 
-- _[Projeto - Lista de tarefas](https://matheusnff85.github.io/todo-list/)_
+- [Projeto - Lista de tarefas](https://matheusnff85.github.io/todo-list/)
 
-- _[Projeto bônus - Meme Generator](https://matheusnff85.github.io/meme-generator/)_
+- [Projeto bônus - Meme Generator](https://matheusnff85.github.io/meme-generator/)
 
-- _[Projeto bônus - Adivinhe a Cor](https://matheusnff85.github.io/color-guess/)_
+- [Projeto bônus - Adivinhe a Cor](https://matheusnff85.github.io/color-guess/)
 
-- _[Projeto bônus - Carta Misteriosa](https://matheusnff85.github.io/mistery-letter/)_
+- [Projeto bônus - Carta Misteriosa](https://matheusnff85.github.io/mistery-letter/)
 
-- _[Projeto - Trybewarts](https://matheusnff85.github.io/trybewarts/)_
+- [Projeto - Trybewarts](https://matheusnff85.github.io/trybewarts/)
 

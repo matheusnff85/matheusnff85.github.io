@@ -22,3 +22,4 @@ Este repositório guarda e hospeda no github pages projetos feitos pelo estudant
 
 - [Projeto - Trybewarts](https://matheusnff85.github.io/trybewarts/)
 
+- [Projeto - JS Unit Tests](https://github.com/tryber/sd-020-b-project-js-unit-tests/pull/107)
